@@ -1,5 +1,5 @@
 # Sambridda Ranabhat
-**Mechatronics Engineering Graduate · Industrial Automation · Embedded Systems**
+**Mechatronics Engineering Final Year · Industrial Automation · Embedded Systems**
 
 Kathmandu, Nepal · sambridda.ranabhat@gmail.com · [LinkedIn](https://linkedin.com/in/sambridda-ranabhat)
 
