@@ -33,7 +33,7 @@ Control system upgrade for a GMP/GEP-compliant purified water production facilit
 - 10-sheet AutoCAD Electrical schematic set — motor circuits, PLC I/O, VFD logic, pneumatic outputs
 - Control panel design: DIN rail layout, HMI dimensional fit, thermal planning
 - Instrumentation logic audit — identified and resolved sensor placement issues in original proposal
-- Mitsubishi FX3SA-60MR-CM PLC programming assigned for commissioning phase
+- Mitsubishi FX1NA-24MR-DS PLC programming assigned for commissioning phase
 
 ---
 
