@@ -24,7 +24,7 @@ Written to fill a methodological gap encountered during an active industrial int
 
 ## Engineering Projects
 
-### [Pharmaceutical-Grade Purified Water Treatment System](https://github.com/Sambridda/NPL-Water-Treatment-Automation)
+### [Pharmaceutical-Grade Purified Water Treatment System](https://github.com/Sambridda/Prarmaceutical-Grade-Purified-Water-Treatment-system)
 *MEPL · Butwal, Nepal · 2026 · Active (Commissioning)*
 
 Control system upgrade for a GMP/GEP-compliant purified water production facility — dual-pass RO, electro-deionization, and UV sterilization for pharmaceutical-grade internal use.
@@ -37,7 +37,7 @@ Control system upgrade for a GMP/GEP-compliant purified water production facilit
 
 ---
 
-### [Automated Peristaltic Pump Dispensing System](https://github.com/Sambridda/Peristaltic-Pump-System)
+### [Automated Peristaltic Pump Dispensing System](https://github.com/Sambridda/Peristaltic-Pump)
 *MEPL · Kathmandu · 2026 · Complete*
 
 Precision liquid dosing system for ophthalmic solution measurement. PLC-controlled stepper motor drive with experimental K-factor calibration engine — accurate to ±0.1 mL across the full 5–20 mL operating range.
@@ -48,7 +48,7 @@ Precision liquid dosing system for ophthalmic solution measurement. PLC-controll
 
 ---
 
-### [Decentralised Smart Home Water Automation (WACPv4)](https://github.com/Sambridda/WACPv4)
+### [Decentralised Smart Home Water Automation (WACPv4)](https://github.com/Sambridda/Water-Automation-Control)
 *Independent · In Development*
 
 Three-node wireless automation loop for residential water management. Custom PCBs centred on ESP32 nodes with HC-12 long-range radio telemetry. Written a lightweight collision-resistant custom protocol for cross-node data handling across obstructed sight lines. Retro HMI with real-time storage and line telemetry display.
