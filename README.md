@@ -112,7 +112,7 @@ Mathematics · Chemistry · Physics & EGP
 
 | Language | Proficiency |
 |----------|-------------|
-| English | Full professional — primary academic language since Grade 1; A-Levels and B.Tech examined entirely in English (IELTS 7.5, 2023) |
+| English | Full professional — primary academic language since Grade 1; A-Levels and B.Tech entirely in English (IELTS 7.5, 2023) |
 | Nepali | Native |
 | Hindi | Working proficiency (receptive B1) |
 | German | Elementary (A2, self-studied) |
