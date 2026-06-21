@@ -70,23 +70,29 @@ Three-node wireless automation loop for residential water management. Custom PCB
 ![ESP8266](https://img.shields.io/badge/ESP8266-412F1F?style=flat-square)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad_PCB-314CB0?style=flat-square)
-![HC-12](https://img.shields.io/badge/HC--12_RF_Telemetry-555555?style=flat-square)
-![LoRA](https://img.shields.io/badge/LoRA-34495E?style=flat-square)
+![Wireless](https://img.shields.io/badge/Wireless-WiFi_|_2.4GHz_|_433MHz_|_HC--12-E67E22?style=flat-square)
+![Instrumentation](https://img.shields.io/badge/Lab_Equipment-Oscilloscope_|_Function_Gen-9B59B6?style=flat-square)
 
-### **CAD & Plant Design**
+### **CAD**
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?style=flat-square)
 ![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD_Electrical-E51937?style=flat-square)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF7300?style=flat-square)
 ![QElectroTech](https://img.shields.io/badge/QElectroTech-2ECC71?style=flat-square)
 ![FluidSIM](https://img.shields.io/badge/FluidSIM-1ABC9C?style=flat-square)
 
-### **Programming & System Design**
+### **System Designing**
+![Electrical Sizing](https://img.shields.io/badge/Electrical_Design-Component_&_Wire_Sizing-34495E?style=flat-square)
+![Hydronic](https://img.shields.io/badge/Hydronic_Systems_(VCH)-1ABC9C?style=flat-square)
+![P&ID](https://img.shields.io/badge/P%26ID_Design-2980B9?style=flat-square)
+
+### **Workshop**
+![G-Code](https://img.shields.io/badge/G--Code_CNC-555555?style=flat-square)
+![Fabrication](https://img.shields.io/badge/Workshop-Arc_Welding_|_Soldering-D35400?style=flat-square)
+
+### **Programming**
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![G-Code](https://img.shields.io/badge/G--Code_CNC-555555?style=flat-square)
-![P&ID](https://img.shields.io/badge/P%26ID_Design-2980B9?style=flat-square)
-![Hydronic](https://img.shields.io/badge/Hydronic_Systems_(VCH)-1ABC9C?style=flat-square)
-![GMP](https://img.shields.io/badge/GMP%2FGEP_Documentation-27AE60?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
