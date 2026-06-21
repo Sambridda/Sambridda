@@ -65,26 +65,35 @@ Three-node wireless automation loop for residential water management. Custom PCB
 ![GXWorks2](https://img.shields.io/badge/GX_Works2-E60012?style=flat-square)
 ![RS485](https://img.shields.io/badge/RS485-555555?style=flat-square)
 
-**Embedded Systems & Hardware**  
+### **Industrial Automation**
+![Coolmay](https://img.shields.io/badge/Coolmay_PLC--HMI-2C3E50?style=flat-square)
+![Mitsubishi](https://img.shields.io/badge/Mitsubishi_PLC-E60012?style=flat-square)
+![CODESYS](https://img.shields.io/badge/CODESYS-0077B5?style=flat-square)
+![GXWorks2](https://img.shields.io/badge/GX_Works2-E60012?style=flat-square)
+![Ladder Logic](https://img.shields.io/badge/Ladder_Logic_&_ST-IEC_61131--3-3498DB?style=flat-square)
+![RS485](https://img.shields.io/badge/RS485-555555?style=flat-square)
+
+### **Embedded Systems & Hardware**
 ![ESP32](https://img.shields.io/badge/ESP32-323232?style=flat-square&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-412F1F?style=flat-square)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square)
-![HC-12](https://img.shields.io/badge/HC--12_RF_Telemetry-555555?style=flat-square)
-
-**CAD & Electrical**  
-![AutoCAD](https://img.shields.io/badge/AutoCAD_Electrical-E51937?style=flat-square)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?style=flat-square)
 ![KiCad](https://img.shields.io/badge/KiCad_PCB-314CB0?style=flat-square)
-![QElectroTech](https://img.shields.io/badge/QElectroTech-2ECC71?style=flat-square)
+![HC-12](https://img.shields.io/badge/HC--12_RF_Telemetry-555555?style=flat-square)
+![LoRA](https://img.shields.io/badge/LoRA-34495E?style=flat-square)
 
-**Programming**  
+### **CAD & Plant Design**
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?style=flat-square)
+![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD_Electrical-E51937?style=flat-square)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-FF7300?style=flat-square)
+![QElectroTech](https://img.shields.io/badge/QElectroTech-2ECC71?style=flat-square)
+![FluidSIM](https://img.shields.io/badge/FluidSIM-1ABC9C?style=flat-square)
+
+### **Programming & System Design**
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![G-Code](https://img.shields.io/badge/G--Code_CNC-555555?style=flat-square)
-
-**System Design**  
-![Hydronic](https://img.shields.io/badge/Hydronic_Systems_Design-1ABC9C?style=flat-square)
 ![P&ID](https://img.shields.io/badge/P%26ID_Design-2980B9?style=flat-square)
+![Hydronic](https://img.shields.io/badge/Hydronic_Systems_(VCH)-1ABC9C?style=flat-square)
 ![GMP](https://img.shields.io/badge/GMP%2FGEP_Documentation-27AE60?style=flat-square)
 
 ---
