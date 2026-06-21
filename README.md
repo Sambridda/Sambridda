@@ -92,12 +92,12 @@ Three-node wireless automation loop for residential water management. Custom PCB
 ## Education
 
 **B.Tech — Mechatronics Engineering**  
-KIIT University, Bhubaneswar, India · Expected July 2026  
-Minor: Finance and Money
+KIIT University, Bhubaneswar, India · Expected July 2027  
+Minor: Finance and Money Analysis
 
 **Cambridge A-Levels**  
 St. Xavier's College, Kathmandu · 2022  
-Mathematics · Chemistry · Physics
+Mathematics · Chemistry · Physics & EGP
 
 ---
 
