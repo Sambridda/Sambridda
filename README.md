@@ -57,14 +57,6 @@ Three-node wireless automation loop for residential water management. Custom PCB
 
 ## Core Competencies
 
-**Industrial Automation**  
-![Coolmay](https://img.shields.io/badge/Coolmay_PLC-HMI-2C3E50?style=flat-square)
-![Mitsubishi](https://img.shields.io/badge/Mitsubishi_PLC-E60012?style=flat-square)
-![Ladder Logic](https://img.shields.io/badge/Ladder_Logic-IEC_61131--3-3498DB?style=flat-square)
-![CODESYS](https://img.shields.io/badge/CODESYS-0077B5?style=flat-square)
-![GXWorks2](https://img.shields.io/badge/GX_Works2-E60012?style=flat-square)
-![RS485](https://img.shields.io/badge/RS485-555555?style=flat-square)
-
 ### **Industrial Automation**
 ![Coolmay](https://img.shields.io/badge/Coolmay_PLC--HMI-2C3E50?style=flat-square)
 ![Mitsubishi](https://img.shields.io/badge/Mitsubishi_PLC-E60012?style=flat-square)
