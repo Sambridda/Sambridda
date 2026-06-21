@@ -22,39 +22,6 @@ Written to fill a methodological gap encountered during an active industrial int
 
 ---
 
-## Engineering Projects
-
-### [Pharmaceutical-Grade Purified Water Treatment System](https://github.com/Sambridda/Prarmaceutical-Grade-Purified-Water-Treatment-system)
-*MEPL · Butwal, Nepal · 2026 · Active (Commissioning)*
-
-Control system upgrade for a GMP/GEP-compliant purified water production facility — dual-pass RO, electro-deionization, and UV sterilization for pharmaceutical-grade internal use.
-
-- Full electrical documentation across 6 motors, 4 VFD zones, and 53 instrument nodes
-- 10-sheet AutoCAD Electrical schematic set — motor circuits, PLC I/O, VFD logic, pneumatic outputs
-- Control panel design: DIN rail layout, HMI dimensional fit, thermal planning
-- Instrumentation logic audit — identified and resolved sensor placement issues in original proposal
-- Mitsubishi FX1NA-24MR-DS PLC programming assigned for commissioning phase
-
----
-
-### [Automated Peristaltic Pump Dispensing System](https://github.com/Sambridda/Peristaltic-Pump)
-*MEPL · Kathmandu · 2026 · Complete*
-
-Precision liquid dosing system for ophthalmic solution measurement. PLC-controlled stepper motor drive with experimental K-factor calibration engine — accurate to ±0.1 mL across the full 5–20 mL operating range.
-
-- Sole designer and programmer — hardware, ladder logic, HMI
-- Resolved 4 real integration failures during development: HMI–PLC race condition, floating-point data type mismatch, CPU math halt prevention, and retentive memory leak
-- Validated across multi-point linearity test: 5, 7.5, 10, 15, and 20 mL
-
----
-
-### [Decentralised Smart Home Water Automation (WACPv4)](https://github.com/Sambridda/Water-Automation-Control)
-*Independent · In Development*
-
-Three-node wireless automation loop for residential water management. Custom PCBs centred on ESP32 nodes with HC-12 long-range radio telemetry. Written a lightweight collision-resistant custom protocol for cross-node data handling across obstructed sight lines. Retro HMI with real-time storage and line telemetry display.
-
----
-
 ## Core Competencies
 
 ### **Industrial Automation**
@@ -93,6 +60,39 @@ Three-node wireless automation loop for residential water management. Custom PCB
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## Engineering Projects
+
+### [Pharmaceutical-Grade Purified Water Treatment System](https://github.com/Sambridda/Prarmaceutical-Grade-Purified-Water-Treatment-system)
+*MEPL · Butwal, Nepal · 2026 · Active (Commissioning)*
+
+Control system upgrade for a GMP/GEP-compliant purified water production facility — dual-pass RO, electro-deionization, and UV sterilization for pharmaceutical-grade internal use.
+
+- Full electrical documentation across 6 motors, 4 VFD zones, and 53 instrument nodes
+- 10-sheet AutoCAD Electrical schematic set — motor circuits, PLC I/O, VFD logic, pneumatic outputs
+- Control panel design: DIN rail layout, HMI dimensional fit, thermal planning
+- Instrumentation logic audit — identified and resolved sensor placement issues in original proposal
+- Mitsubishi FX1NA-24MR-DS PLC programming assigned for commissioning phase
+
+---
+
+### [Automated Peristaltic Pump Dispensing System](https://github.com/Sambridda/Peristaltic-Pump)
+*MEPL · Kathmandu · 2026 · Complete*
+
+Precision liquid dosing system for ophthalmic solution measurement. PLC-controlled stepper motor drive with experimental K-factor calibration engine — accurate to ±0.1 mL across the full 5–20 mL operating range.
+
+- Sole designer and programmer — hardware, ladder logic, HMI
+- Resolved 4 real integration failures during development: HMI–PLC race condition, floating-point data type mismatch, CPU math halt prevention, and retentive memory leak
+- Validated across multi-point linearity test: 5, 7.5, 10, 15, and 20 mL
+
+---
+
+### [Decentralised Smart Home Water Automation (WACPv4)](https://github.com/Sambridda/Water-Automation-Control)
+*Independent · In Development*
+
+Three-node wireless automation loop for residential water management. Custom PCBs centred on ESP32 nodes with HC-12 long-range radio telemetry. Written a lightweight collision-resistant custom protocol for cross-node data handling across obstructed sight lines. Retro HMI with real-time storage and line telemetry display.
 
 ---
 
