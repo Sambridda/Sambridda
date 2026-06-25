@@ -65,6 +65,17 @@ Written to fill a methodological gap encountered during an active industrial int
 
 ## Engineering Projects
 
+### [Palm-Oil-Systems-Design](https://github.com/Sambridda/palm-oil-systems-design)
+*MEPL · Kathmandu, Nepal · 2026 · Active (Design & Verification)*
+
+Industrial thermal processing and automation architecture for a multi-tank palm oil melting and trim-heating facility, scaling output using a self-authored sizing framework and smart PLC queuing.
+
+- Sized and modeled multi-phase thermal dynamics for three 10 kL storage vessels and one 5 kL trim-heating tank using the self-authored VCH Sizing Framework (2nd Ed.)
+- Developed PLC automation logic using a Dynamic Upper Thermal Boundary equation ($T_f$) to prevent thermal overshooting and system line stress
+- Coded volume- and temperature-weighted priority queuing algorithms ($S_{\text{casual}}$ / $S_{\text{immediate}}$) to coordinate an overlapping, staggered multi-tank melt sequence
+- Engineered a single-pump solar thermal integration circuit backed by a 36 kW auxiliary electric array to offset 61.46% of the daily energy budget
+- Analyzed a 4-case pipe and coil diameter matrix (1" and 1.5" NPS) to resolve material cost constraints without sacrificing system throughput
+
 ### [Pharmaceutical-Grade Purified Water Treatment System](https://github.com/Sambridda/Prarmaceutical-Grade-Purified-Water-Treatment-system)
 *MEPL · Butwal, Nepal · 2026 · Active (Commissioning)*
 
