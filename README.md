@@ -14,7 +14,7 @@ Currently finishing a B.Tech in Mechatronics Engineering (KIIT University, India
 ## Published Work
 
 **Velocity-Constrained Hydronics (VCH) Sizing Framework**  
-*Open-source engineering handbook · Zenodo · DOI: [10.5281/zenodo.15579395](https://zenodo.org/records/15579395)*
+*Open-source engineering handbook · Zenodo · DOI: [[10.5281/zenodo.15579395](https://doi.org/10.5281/zenodo.21009246)]*
 
 A 105-page industrial design methodology covering an 11-step mathematical procedure for sizing hydronic thermal regulation loops. Includes 8 technical appendices spanning thermofluid property tables, control architecture diagrams, SCADA stack illustrations, break-even analysis, and a fully resolved production-ready case study.
 
