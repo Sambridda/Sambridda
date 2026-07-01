@@ -65,6 +65,15 @@ Written to fill a methodological gap encountered during an active industrial int
 
 ## Engineering Projects
 
+### [Hydraulic-Trajectory-Control](https://github.com/Sambridda/hydraulic-trajectory-control)
+*MEPL · Kathmandu, Nepal · 2026 · Active (Proposal & Design)*
+Feedforward–feedback control architecture for a PLC-supervised asymmetric hydraulic cylinder, driving prescribed triangular and sinusoidal displacement trajectories via proportional flow and pressure valves.
+- Derived the governing orifice flow relationship and normalized valve command equations ($u_{dcv} \in [-1,1]$, $u_{pcv} \in [0,1]$) from first principles, validated against Merritt's hydraulic control theory and ISO 4411/10770-1
+- Synthesized closed-form feedforward trajectory equations for triangular and sinusoidal motion under two independent PCV architectures (fixed relief vs. active proportional pressure control)
+- Designed a cascaded feedforward + PID compensation layer with anti-windup and deadband correction to close the residual position-tracking gap
+- Analytically bounded achievable operating frequency by resolving four competing constraints (hydraulic resonance, pump flow limit, inertial force limit, valve bandwidth) rather than relying on trial-and-error tuning
+- Benchmarked three PLC hardware platforms against realistic (not nominal 1 kHz) loop-rate requirements to guide a cost-effective hardware selection for the Nepal market
+
 ### [Palm-Oil-Systems-Design](https://github.com/Sambridda/palm-oil-systems-design)
 *MEPL · Kathmandu, Nepal · 2026 · Active (Design & Verification)*
 
