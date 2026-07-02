@@ -67,7 +67,9 @@ Written to fill a methodological gap encountered during an active industrial int
 
 ### [Control-System-for-Seismic-Wave-Generator](https://github.com/Sambridda/Control-System-for-Seismic-Wave-Generator)
 *MEPL · Kathmandu, Nepal · 2026 · Active (Proposal & Design)*
+
 Feedforward–feedback control architecture for a PLC-supervised asymmetric hydraulic cylinder, driving prescribed triangular and sinusoidal displacement trajectories via proportional flow and pressure valves.
+
 - Derived the governing orifice flow relationship and normalized valve command equations ($u_{dcv} \in [-1,1]$, $u_{pcv} \in [0,1]$) from first principles, validated against Merritt's hydraulic control theory and ISO 4411/10770-1
 - Synthesized closed-form feedforward trajectory equations for triangular and sinusoidal motion under two independent PCV architectures (fixed relief vs. active proportional pressure control)
 - Designed a cascaded feedforward + PID compensation layer with anti-windup and deadband correction to close the residual position-tracking gap
