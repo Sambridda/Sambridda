@@ -79,13 +79,13 @@ Feedforward–feedback control architecture for a PLC-supervised asymmetric hydr
 ### [Palm-Oil-Systems-Design](https://github.com/Sambridda/palm-oil-systems-design)
 *MEPL · Kathmandu, Nepal · 2026 · Active (Design & Verification)*
 
-Industrial thermal processing and automation architecture for a multi-tank palm oil melting and trim-heating facility, scaling output using a self-authored sizing framework and smart PLC queuing.
+Industrial thermal processing and PLC automation architecture for a multi-tank palm oil melting facility.
 
-- Sized and modeled multi-phase thermal dynamics for three 10 kL storage vessels and one 5 kL trim-heating tank using the self-authored VCH Sizing Framework (2nd Ed.)
-- Developed PLC automation logic using a Dynamic Upper Thermal Boundary equation ($T_f$) to prevent thermal overshooting and system line stress
-- Coded volume- and temperature-weighted priority queuing algorithms ($S_{\text{casual}}$ / $S_{\text{immediate}}$) to coordinate an overlapping, staggered multi-tank melt sequence
-- Engineered a single-pump solar thermal integration circuit backed by a 36 kW auxiliary electric array to offset 61.46% of the daily energy budget
-- Analyzed a 4-case pipe and coil diameter matrix (1" and 1.5" NPS) to resolve material cost constraints without sacrificing system throughput
+- Authored the **VCH Sizing Framework (2nd Ed.)** for hydronic thermal system sizing using ε-NTU and multi-phase heat-transfer analysis.
+- Designed the **Adaptive Demand Allocation (ADA)** architecture for dynamic thermal distribution and concurrent multi-load operation.
+- Developed PLC control algorithms including dynamic thermal boundaries, demand-based prioritization, and physics-based fault detection.
+- Engineered a solar-assisted heating network with a 36 kW auxiliary thermal backup system.
+- Achieved **4.95 t/day** modeled throughput (**247.7%** of the original production target) through iterative thermal and control-system optimization.
 
 ### [Pharmaceutical-Grade Purified Water Treatment System](https://github.com/Sambridda/Prarmaceutical-Grade-Purified-Water-Treatment-system)
 *MEPL · Butwal, Nepal · 2026 · Active (Commissioning)*
