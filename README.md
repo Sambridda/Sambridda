@@ -79,13 +79,13 @@ Feedforward–feedback control architecture for a PLC-supervised asymmetric hydr
 ### [Palm-Oil-Systems-Design](https://github.com/Sambridda/palm-oil-systems-design)
 *MEPL · Kathmandu, Nepal · 2026 · Active (Design & Verification)*
 
-Industrial thermal processing and PLC automation architecture for a multi-tank palm oil melting facility.
+Industrial thermal processing and PLC automation architecture for a multi-tank palm oil melting facility, combining first-principles thermal modeling with demand-driven control to exceed production targets while minimizing energy consumption.
 
-- Authored the **VCH Sizing Framework (2nd Ed.)** for hydronic thermal system sizing using ε-NTU and multi-phase heat-transfer analysis.
-- Designed the **Adaptive Demand Allocation (ADA)** architecture for dynamic thermal distribution and concurrent multi-load operation.
-- Developed PLC control algorithms including dynamic thermal boundaries, demand-based prioritization, and physics-based fault detection.
-- Engineered a solar-assisted heating network with a 36 kW auxiliary thermal backup system.
-- Achieved **4.95 t/day** modeled throughput (**247.7%** of the original production target) through iterative thermal and control-system optimization.
+- Authored the **VCH Sizing Framework (2nd Ed.)**, applying ε-NTU analysis and multi-phase thermal modeling to size hydronic heating systems for three 10 kL melting vessels and one 5 kL trim-heating tank.
+- Designed the **Adaptive Demand Allocation (ADA)** control architecture, enabling demand-driven thermal distribution, dynamic water-temperature regulation, and concurrent multi-load operation through PLC automation.
+- Developed advanced PLC algorithms including a Dynamic Upper Thermal Boundary ($T_f$), physics-based fault detection, and operator-supervised governance for automated palm olein storage and dispensing.
+- Engineered a solar-assisted thermal loop integrated with a 36 kW auxiliary immersion heating array, optimizing energy utilization while reducing hardware complexity.
+- Validated multiple architectural revisions through thermal, hydraulic, and energy-budget analyses, achieving approximately **4.95 t/day** combined throughput (**247.7%** of the original 2 t/day design requirement).
 
 ### [Pharmaceutical-Grade Purified Water Treatment System](https://github.com/Sambridda/Prarmaceutical-Grade-Purified-Water-Treatment-system)
 *MEPL · Butwal, Nepal · 2026 · Active (Commissioning)*
