@@ -111,13 +111,6 @@ Precision liquid dosing system for ophthalmic solution measurement. PLC-controll
 
 ---
 
-### [Decentralised Smart Home Water Automation (WACPv4)](https://github.com/Sambridda/Water-Automation-Control)
-*Independent · In Development (Halted)*
-
-Three-node wireless automation loop for residential water management. Custom PCBs centred on ESP32 nodes with HC-12 long-range radio telemetry. Written a lightweight collision-resistant custom protocol for cross-node data handling across obstructed sight lines. Retro HMI with real-time storage and line telemetry display.
-
----
-
 ## Hobby Projects
 
 ### [Inventory Management Bot](https://github.com/Sambridda/InventoryBot)
@@ -131,6 +124,13 @@ Developed a prototype inventory management system in response to an inventory-tr
 - Integrated Gemini AI for extracting structured inventory data from bills and quotations, with human review required before database updates.
 - Designed for lightweight Raspberry Pi deployment with no external database infrastructure.
 - Independently developed as a prototype for potential MEPL use; not currently deployed officially.
+
+---
+
+### [Decentralised Smart Home Water Automation (WACPv4)](https://github.com/Sambridda/Water-Automation-Control)
+*Independent · In Development (Halted)*
+
+Three-node wireless automation loop for residential water management. Custom PCBs centred on ESP32 nodes with HC-12 long-range radio telemetry. Written a lightweight collision-resistant custom protocol for cross-node data handling across obstructed sight lines. Retro HMI with real-time storage and line telemetry display.
 
 ---
 
