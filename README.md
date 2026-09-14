@@ -66,7 +66,7 @@ Written to fill a methodological gap encountered during an active industrial int
 ## Engineering Projects
 
 ### [Control-System-for-Seismic-Wave-Generator](https://github.com/Sambridda/Control-System-for-Seismic-Wave-Generator)
-*MEPL · Kathmandu, Nepal · 2026 · Active (Proposal & Design)*
+*MEPL · Kathmandu, Nepal · 2026 · Active (Designing & Fabrication)*
 
 Feedforward–feedback control architecture for a PLC-supervised asymmetric hydraulic cylinder, driving prescribed triangular and sinusoidal displacement trajectories via proportional flow and pressure valves.
 
@@ -77,7 +77,7 @@ Feedforward–feedback control architecture for a PLC-supervised asymmetric hydr
 - Benchmarked three PLC hardware platforms against realistic (not nominal 1 kHz) loop-rate requirements to guide a cost-effective hardware selection for the Nepal market
 
 ### [Palm-Oil-Systems-Design](https://github.com/Sambridda/palm-oil-systems-design)
-*MEPL · Kathmandu, Nepal · 2026 · Active (Design & Verification)*
+*MEPL · Kathmandu, Nepal · 2026 · Active (Commissioning & Verification)*
 
 Industrial thermal processing and PLC automation architecture for a multi-tank palm oil melting facility, combining first-principles thermal modeling with demand-driven control to exceed production targets while minimizing energy consumption.
 
@@ -112,9 +112,25 @@ Precision liquid dosing system for ophthalmic solution measurement. PLC-controll
 ---
 
 ### [Decentralised Smart Home Water Automation (WACPv4)](https://github.com/Sambridda/Water-Automation-Control)
-*Independent · In Development*
+*Independent · In Development (Halted)*
 
 Three-node wireless automation loop for residential water management. Custom PCBs centred on ESP32 nodes with HC-12 long-range radio telemetry. Written a lightweight collision-resistant custom protocol for cross-node data handling across obstructed sight lines. Retro HMI with real-time storage and line telemetry display.
+
+---
+
+## Hobby Projects
+
+### [Inventory Management Bot](https://github.com/Sambridda/InventoryBot)
+*Independent · Working Prototype*
+
+Identified an opportunity to improve inventory tracking at MEPL and independently developed a transactional inventory system using a human-in-the-loop draft → review → confirm architecture.
+
+- Architected a SQLite transaction backend with immutable import/export records and full audit history.
+- Designed role-gated workflows for inventory proposal, review, editing, and authorization through Discord.
+- Implemented bulk inventory workflows through Excel round-tripping, structured text input, and fuzzy duplicate detection.
+- Integrated Gemini AI for structured extraction from bills and quotations, isolating AI output behind human validation before database writes.
+- Designed for lightweight Raspberry Pi deployment, requiring no external database server.
+- Developed as an independent prototype for a potential MEPL workflow improvement; not currently deployed officially.
 
 ---
 
@@ -130,23 +146,6 @@ Mathematics · Chemistry · Physics & EGP
 
 ---
 
-## Hobby Projects
-
-### [Inventory Management Bot](https://github.com/Sambridda/InventoryBot)
-*Independent · Working Prototype*
-
-Identified an opportunity to improve inventory tracking and transaction control during work at MEPL and independently developed a prototype digital inventory system. Designed around a human-in-the-loop draft → review → confirm workflow to prevent unverified inputs from modifying live stock while maintaining a complete transaction audit trail.
-
-- Architected a transactional inventory backend using SQLite, with imports and exports represented as immutable records rather than destructive stock modifications.
-- Designed a role-gated workflow for proposing, reviewing, editing, and authorizing inventory transactions through an interactive Discord interface.
-- Implemented bulk data workflows through Excel round-tripping and structured text input to accommodate practical warehouse data-entry requirements.
-- Integrated Gemini AI for extracting structured inventory data from bills and quotations, with AI output isolated from the database behind human review and validation.
-- Implemented fuzzy duplicate detection, stock-on-hand calculations, draft expiry, transaction history, and validation of imported data.
-- Designed the system for lightweight Raspberry Pi deployment, requiring no external database server and using cloud AI only as an optional document-extraction service.
-- Developed and documented the system independently as an exploration of a potential MEPL workflow improvement; not currently deployed as an official company system.
-
----
-
 ## Languages
 
 | Language | Proficiency |
@@ -158,4 +157,4 @@ Identified an opportunity to improve inventory tracking and transaction control 
 
 ---
 
-*Engineering requires a lot of capital than I first assumed.*
+*Engineering requires a lot more capital than I first assumed.*
