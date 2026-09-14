@@ -131,7 +131,8 @@ Mathematics · Chemistry · Physics & EGP
 ---
 
 ## Hobby Projects
-[Inventory Management Bot/system](https://github.com/Sambridda/InventoryBot)
+
+### [Inventory Management Bot]((https://github.com/Sambridda/InventoryBot)
 *Independent · Working Prototype*
 
 Identified an opportunity to improve inventory tracking and transaction control during work at MEPL and independently developed a prototype digital inventory system. Designed around a human-in-the-loop draft → review → confirm workflow to prevent unverified inputs from modifying live stock while maintaining a complete transaction audit trail.
