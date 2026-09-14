@@ -123,14 +123,14 @@ Three-node wireless automation loop for residential water management. Custom PCB
 ### [Inventory Management Bot](https://github.com/Sambridda/InventoryBot)
 *Independent · Working Prototype*
 
-Identified an opportunity to improve inventory tracking at MEPL and independently developed a transactional inventory system using a human-in-the-loop draft → review → confirm architecture.
+Developed a prototype inventory management system in response to an inventory-tracking problem observed during work at MEPL, exploring a practical digital workflow without requiring a dedicated server.
 
-- Architected a SQLite transaction backend with immutable import/export records and full audit history.
-- Designed role-gated workflows for inventory proposal, review, editing, and authorization through Discord.
-- Implemented bulk inventory workflows through Excel round-tripping, structured text input, and fuzzy duplicate detection.
-- Integrated Gemini AI for structured extraction from bills and quotations, isolating AI output behind human validation before database writes.
-- Designed for lightweight Raspberry Pi deployment, requiring no external database server.
-- Developed as an independent prototype for a potential MEPL workflow improvement; not currently deployed officially.
+- Designed a SQLite-backed transaction system using a human-in-the-loop draft → review → confirm workflow.
+- Implemented role-gated inventory operations, audit history, stock calculations, and draft expiry through Discord.
+- Built bulk workflows using Excel round-tripping, structured text input, and fuzzy duplicate detection.
+- Integrated Gemini AI for extracting structured inventory data from bills and quotations, with human review required before database updates.
+- Designed for lightweight Raspberry Pi deployment with no external database infrastructure.
+- Independently developed as a prototype for potential MEPL use; not currently deployed officially.
 
 ---
 
