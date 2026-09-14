@@ -130,6 +130,22 @@ Mathematics · Chemistry · Physics & EGP
 
 ---
 
+## Hobby Projects
+###[Inventory Management Bot/system]
+*Independent · Working Prototype*
+
+Identified an opportunity to improve inventory tracking and transaction control during work at MEPL and independently developed a prototype digital inventory system. Designed around a human-in-the-loop draft → review → confirm workflow to prevent unverified inputs from modifying live stock while maintaining a complete transaction audit trail.
+
+- Architected a transactional inventory backend using SQLite, with imports and exports represented as immutable records rather than destructive stock modifications.
+- Designed a role-gated workflow for proposing, reviewing, editing, and authorizing inventory transactions through an interactive Discord interface.
+- Implemented bulk data workflows through Excel round-tripping and structured text input to accommodate practical warehouse data-entry requirements.
+- Integrated Gemini AI for extracting structured inventory data from bills and quotations, with AI output isolated from the database behind human review and validation.
+- Implemented fuzzy duplicate detection, stock-on-hand calculations, draft expiry, transaction history, and validation of imported data.
+- Designed the system for lightweight Raspberry Pi deployment, requiring no external database server and using cloud AI only as an optional document-extraction service.
+- Developed and documented the system independently as an exploration of a potential MEPL workflow improvement; not currently deployed as an official company system.
+
+---
+
 ## Languages
 
 | Language | Proficiency |
