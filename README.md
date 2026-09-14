@@ -158,4 +158,4 @@ Identified an opportunity to improve inventory tracking and transaction control 
 
 ---
 
-*Engineering is not about knowing the method. It's about knowing when no method exists — and writing one.*
+*Engineering requires a lot of capital than I first assumed.*
