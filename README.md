@@ -77,16 +77,16 @@ Feedforward–feedback control architecture for a PLC-supervised asymmetric hydr
 - Benchmarked three PLC hardware platforms against realistic (not nominal 1 kHz) loop-rate requirements to guide a cost-effective hardware selection for the Nepal market
 
 ### [Palm-Oil-Systems-Design](https://github.com/Sambridda/palm-oil-systems-design)
-*MEPL · Kathmandu, Nepal · 2026 · Active (Installation & Commissioning, ~30% complete)*
+*MEPL · Kathmandu, Nepal · 2026 · Deployed*
 
-Industrial thermal processing and PLC automation architecture for a multi-tank palm oil melting facility, combining first-principles thermal modeling with demand-driven control to exceed production targets while minimizing energy consumption.
+Industrial thermal processing and PLC automation for a multi-tank palm oil melting and dispensing facility, combining first-principles thermal modeling with demand-driven control to exceed production targets while minimizing energy consumption.
 
 - Authored the **VCH Sizing Framework (2nd Ed.)**, applying ε-NTU analysis and multi-phase thermal modeling to size hydronic heating for three 10 kL melting vessels and one 5 kL trim-heating tank; later rebuilt the tank thermal model as a **1D radial, 100-shell enthalpy simulation**, replacing an earlier core/shell approximation.
-- Finalized the **Adaptive Demand Allocation (ADA)** control architecture through version 3.0, resolving demand-driven thermal distribution, a sentinel-based tank arbiter, and closed-loop Modbus oil distribution into a single consolidated PLC programming reference with an explicit register-level reconciliation log.
-- Programmed and am commissioning the full as-built ladder logic (Coolmay L10S, ~3,300 steps) — dynamic thermal boundary control, dual-latch heater staging, physics-based fault detection, operator-supervised palm olein dispensing — authoring the site commissioning checklist and sensor/VFD calibration procedures used to verify it.
-- Engineered a solar-assisted thermal loop integrated with a 36 kW auxiliary immersion array, and designed the plant's electrical schematic, control panel layout, and field wire sizing.
-- Identified that **batch start condition, not ambient temperature or installed capacity, is the dominant factor in daily output**: a cold-started tank produces no usable liquid in a working day, while carrying a tank over warm between batches clears the production target several times over at zero additional capital cost.
-- Validated the architecture across worst/normal/best-case thermal, hydraulic, and energy-budget scenarios — throughput held within ~1% across all ambient/feedstock conditions, at roughly **270% of the original 2 t/day design requirement**.
+- Evolved the **Adaptive Demand Allocation (ADA)** control architecture through version 3.0, then rebuilt the program from scratch for the field: **program 5.4 cut the ladder from ~3,300 to ~1,800 steps** by replacing priority scheduling with demand registration.
+- Programmed and commissioned the ladder logic on a Coolmay L10S, with Modbus round-robin polling across three station HMIs; all three dispensing stations now run at **1% error against a 3% target**, calibrated against the client's own weighing machine.
+- Engineered a solar-assisted thermal loop alongside three 9 kW heaters (27 kW), and designed the plant's electrical schematic, control panel layout, and field wire sizing.
+- Identified that **batch start condition, not ambient temperature or installed capacity, is the dominant factor in daily output**: in the coldest modeled case a cold-started tank yields no usable liquid in a day, while carrying a tank over warm clears the target several times over at zero additional capital cost.
+- Modeled warm-start output of **~8 t/day across 7–22 °C ambient, roughly 4× the original 2 t/day design requirement**.
 
 ### [Pharmaceutical-Grade Purified Water Treatment System](https://github.com/Sambridda/Prarmaceutical-Grade-Purified-Water-Treatment-system)
 *MEPL · Butwal, Nepal · 2026 · Active (Commissioning)*
