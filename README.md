@@ -114,7 +114,7 @@ Precision liquid dosing system for ophthalmic solution measurement. PLC-controll
 
 ## Hobby Projects
 
-### VCH Simulation App — Vessel-Coil-Hydronic
+### [VCH Simulation App — Vessel-Coil-Hydronic](https://github.com/VCH-Team/VCH-App)
 *Independent Engineering Project · 2026–Present · Active (Development & Validation)*
 
 Multidisciplinary engineering software project developing a computational thermal-hydraulic simulation platform for analysing vessel heating, coil sizing and hydronic behaviour. Initiated from industrial thermal-system design challenges, with the objective of translating engineering physics into an accessible simulation and design tool, accompanied by a technical book.
