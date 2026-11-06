@@ -115,7 +115,7 @@ Precision liquid dosing system for ophthalmic solution measurement. PLC-controll
 ## Hobby Projects
 
 ### [VCH Simulation App — Project Director & Technical Lead](https://github.com/VCH-Team/VCH-App)
-*Interdisciplinary Engineering Project | [Start Year] – Present*
+*Interdisciplinary Engineering Project | [2026] – Present*
 
 - Founded and direct a six-member interdisciplinary engineering team comprising mechanical and computer engineering contributors, overseeing project direction, planning, and execution.
 - Lead technical development and physical modelling of vessel–coil–hydronic systems, translating thermal and fluid-flow principles into computational simulation models.
