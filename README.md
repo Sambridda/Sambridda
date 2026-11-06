@@ -126,6 +126,16 @@ Multidisciplinary engineering software project developing a computational therma
 - Established computational performance and scalability requirements, exploring multiprocessing, parallel execution and simulation benchmarking for large parameter sweeps.
 - Coordinated the development of an interactive desktop application and a companion technical book to connect computational modelling with practical thermal-system design.
 
+**VCH Simulation App — Project Director & Technical Lead**  
+*Interdisciplinary Engineering Project | [Start Year] – Present*
+
+- Founded and direct a six-member interdisciplinary engineering team comprising mechanical and computer engineering contributors, overseeing project direction, planning, and execution.
+- Lead technical development and physical modelling of vessel–coil–hydronic systems, translating thermal and fluid-flow principles into computational simulation models.
+- Coordinate mechanical and software engineering teams, defining technical requirements, development priorities, interfaces, and validation responsibilities.
+- Oversee task allocation, team coordination, development milestones, and cross-disciplinary collaboration while maintaining alignment with the project's engineering objectives.
+- Contribute directly to the Python-based simulation engine, including computational modelling, numerical methods, and performance optimisation.
+- Established project workflows, GitHub collaboration practices, and development procedures to support collaborative engineering and software integration.
+
 ### [Inventory Management Bot](https://github.com/Sambridda/InventoryBot)
 *Independent · Working Prototype*
 
