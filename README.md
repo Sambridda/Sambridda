@@ -114,19 +114,7 @@ Precision liquid dosing system for ophthalmic solution measurement. PLC-controll
 
 ## Hobby Projects
 
-### [VCH Simulation App — Vessel-Coil-Hydronic](https://github.com/VCH-Team/VCH-App)
-*Independent Engineering Project · 2026–Present · Active (Development & Validation)*
-
-Multidisciplinary engineering software project developing a computational thermal-hydraulic simulation platform for analysing vessel heating, coil sizing and hydronic behaviour. Initiated from industrial thermal-system design challenges, with the objective of translating engineering physics into an accessible simulation and design tool, accompanied by a technical book.
-
-- Conceived and initiated the VCH project, establishing its physical modelling objectives, simulation architecture and development roadmap.
-- Directed a multidisciplinary team of mechanical and computer engineering members, coordinating physics development, software implementation and integration.
-- Led the development of a numerical thermal simulation framework using Python and Numba, incorporating discretised vessel geometry, heat-transfer calculations and transient thermal behaviour.
-- Developed a spatially discretised vessel representation using 360 circumferential segments and multiple vertical levels to capture radial and axial temperature variations.
-- Established computational performance and scalability requirements, exploring multiprocessing, parallel execution and simulation benchmarking for large parameter sweeps.
-- Coordinated the development of an interactive desktop application and a companion technical book to connect computational modelling with practical thermal-system design.
-
-**VCH Simulation App — Project Director & Technical Lead**  
+### [VCH Simulation App — Project Director & Technical Lead](https://github.com/VCH-Team/VCH-App)
 *Interdisciplinary Engineering Project | [Start Year] – Present*
 
 - Founded and direct a six-member interdisciplinary engineering team comprising mechanical and computer engineering contributors, overseeing project direction, planning, and execution.
@@ -135,6 +123,8 @@ Multidisciplinary engineering software project developing a computational therma
 - Oversee task allocation, team coordination, development milestones, and cross-disciplinary collaboration while maintaining alignment with the project's engineering objectives.
 - Contribute directly to the Python-based simulation engine, including computational modelling, numerical methods, and performance optimisation.
 - Established project workflows, GitHub collaboration practices, and development procedures to support collaborative engineering and software integration.
+
+---
 
 ### [Inventory Management Bot](https://github.com/Sambridda/InventoryBot)
 *Independent · Working Prototype*
